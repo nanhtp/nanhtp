@@ -1,0 +1,7 @@
+.not-complete {
+    background-color: red;
+}
+
+.is-complete {
+    background-color: green;
+}
